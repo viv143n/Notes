@@ -1,3 +1,11 @@
+# Statistics in Python — Understanding Variance, Covariance, and Correlation
+One of the topics that a data scientist must understand is the relationships that exist in your dataset. Before you start the machine learning process, it is critical to prepare your data so that only the relevant parts of your dataset is used for training. To understand the relationships in your dataset, you need to understand the following concepts:
+
+-   Variance
+-   Covariance
+-   Correlation
+
+As usual, my aim is to make it easy for you to digest these topics. Let’s begin!
 # Creating the Sample Dataset
 
 To understand relationships in your dataset, let’s create a simple one and load in into a Pandas DataFrame:
